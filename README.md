@@ -6,14 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [greedy](#greedy) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -23,11 +25,24 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ---
 
