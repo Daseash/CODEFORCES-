@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (2)
-- [greedy](#greedy) (3)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (3)
+- [dfs and similar](#dfs-and-similar) (1)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (5)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
@@ -28,17 +30,31 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 27B | [Tournament](https://codeforces.com/contest/27/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/27/B%20-%20Tournament/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 27B | [Tournament](https://codeforces.com/contest/27/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/27/B%20-%20Tournament/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 27B | [Tournament](https://codeforces.com/contest/27/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/27/B%20-%20Tournament/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 27B | [Tournament](https://codeforces.com/contest/27/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/27/B%20-%20Tournament/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
