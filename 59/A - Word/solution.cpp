@@ -1,37 +1,43 @@
 #include <iostream>
 #include <string>
-#include <cctype>
  
 using namespace std;
  
 int main() {
-    string s;
-    cin >> s;
-    
-    int up_count = 0;
-    int low_count = 0;
-    
-    // Count uppercase and lowercase letters
-    for (char c : s) {
-        if (isupper(c)) {
-            up_count++;
+    string word;
+    cin >> word; // Read the word
+ 
+    int uppercase = 0;
+    int lowercase = 0;
+ 
+    // 1. Count them up
+    for (int i = 0; i < word.length(); i++) {
+        if (word[i] >= 'A' && word[i] <= 'Z') {
+            uppercase++;
         } else {
-            low_count++;
+            lowercase++;
         }
     }
-    
-    // Transform the string based on the counts
-    if (up_count > low_count) {
-        for (char &c : s) {
-            c = toupper(c);
+ 
+    // 2. Change the letters inside the string
+    if (uppercase > lowercase) {
+        // Change all lowercase to uppercase
+        for (int i = 0; i < word.length(); i++) {
+            if (word[i] >= 'a' && word[i] <= 'z') {
+                word[i] = word[i] - 32; 
+            }
         }
     } else {
-        for (char &c : s) {
-            c = tolower(c);
+        // Change all uppercase to lowercase
+        for (int i = 0; i < word.length(); i++) {
+            if (word[i] >= 'A' && word[i] <= 'Z') {
+                word[i] = word[i] + 32; 
+            }
         }
     }
-    
-    cout << s << endl;
-    
+ 
+    // 3. Print the final modified word all at once!
+    cout << word << endl;
+ 
     return 0;
 }
