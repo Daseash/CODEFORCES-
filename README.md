@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 13 |
+| 26 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (16)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
@@ -83,6 +83,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 
 ### implementation
 
