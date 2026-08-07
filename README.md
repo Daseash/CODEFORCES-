@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 13 |
+| 27 | 14 |
 
 ---
 
@@ -19,11 +19,12 @@
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (16)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (17)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (7)
 
 ---
@@ -81,6 +82,7 @@
 |---|---------|------------|----------|
 | 27B | [Tournament](https://codeforces.com/contest/27/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/27/B%20-%20Tournament/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
@@ -100,6 +102,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 746B | [Decoding](https://codeforces.com/contest/746/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/746/B%20-%20Decoding/solution.cpp) |
@@ -131,6 +134,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 
 ### strings
 
