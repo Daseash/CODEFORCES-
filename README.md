@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 14 |
+| 30 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -97,6 +97,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
