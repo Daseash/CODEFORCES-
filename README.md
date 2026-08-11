@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 14 |
+| 32 | 14 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -49,6 +49,7 @@
 | 27B | [Tournament](https://codeforces.com/contest/27/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/27/B%20-%20Tournament/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 
 ### constructive algorithms
 
@@ -68,6 +69,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 
 ### graph matchings
@@ -107,6 +109,7 @@
 | 334A | [Candy Bags](https://codeforces.com/contest/334/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/334/A%20-%20Candy%20Bags/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 746B | [Decoding](https://codeforces.com/contest/746/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/746/B%20-%20Decoding/solution.cpp) |
