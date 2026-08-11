@@ -5,7 +5,7 @@
 using namespace std;
  
 int main() {
-    // Fast I/O for competitive programming
+    // Fast I/O for speed
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
  
@@ -18,16 +18,15 @@ int main() {
     }
  
     int max_len = 1;
-    int left = 0;
+    int current_len = 1;
  
-    // Use two pointers: `left` marks the start of the non-decreasing segment,
-    // `right` expands the window.
-    for (int right = 1; right < n; right++) {
-        if (a[right] < a[right - 1]) {
-            // Sequence broke, reset left pointer to current position
-            left = right;
+    for (int i = 1; i < n; i++) {
+        if (a[i] >= a[i - 1]) {
+            current_len++;
+        } else {
+            current_len = 1; // Reset when sequence breaks
         }
-        max_len = max(max_len, right - left + 1);
+        max_len = max(max_len, current_len);
     }
  
     cout << max_len << "
