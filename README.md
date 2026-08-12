@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 14 |
+| 34 | 15 |
 
 ---
 
@@ -20,12 +20,13 @@
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (7)
+- [strings](#strings) (8)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -116,6 +117,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### math
 
@@ -161,6 +163,13 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 746B | [Decoding](https://codeforces.com/contest/746/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/746/B%20-%20Decoding/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Daseash/CODEFORCES-/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ---
 
