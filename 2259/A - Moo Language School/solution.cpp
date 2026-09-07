@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <vector>
  
 using namespace std;
  
@@ -9,28 +10,27 @@ void solve() {
     string s;
     cin >> s;
     
-    int cost = 0;
-    // Iterate through the string in chunks of size k
+    int ans = 0;
+    // Iterate through each farm (chunk of size k)
     for (int i = 0; i < n; i += k) {
-        bool has_zero = false;
-        // Check fields in the current farm
-        for (int j = 0; j < k; ++j) {
+        bool all_ones = true;
+        for (int j = 0; j < k; j++) {
             if (s[i + j] == '0') {
-                has_zero = true;
+                all_ones = false;
                 break;
             }
         }
-        // If all fields are '1', we must incur a cost
-        if (!has_zero) {
-            cost++;
+        // If the whole farm is '1's, we have to build on Nhoj's land
+        if (all_ones) {
+            ans++;
         }
     }
-    cout << cost << "
+    cout << ans << "
 ";
 }
  
 int main() {
-    // Optimize standard I/O operations for performance
+    // Fast I/O
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     
@@ -39,6 +39,5 @@ int main() {
     while (t--) {
         solve();
     }
-    
     return 0;
 }
