@@ -7,31 +7,31 @@ void solve() {
     cin >> x >> y >> k;
  
     long long d = y - x;
-    long long total_sum = 0;
+    long long totalsum = 0;
     long long i = 0;
  
     while (i < k) {
-        long long current_x = x + i;
+        long long currentx = x + i;
         
-        if (current_x > d) {
-            total_sum += (k - i) * d;
+        if (currentx > d) {
+            totalsum += (k - i) * d;
             break;
         }
  
-        long long q = d / current_x;
+        long long q = d / currentx;
         
-        long long max_x = d / q;
-        long long count = min(k - i, max_x - current_x + 1);
+        long long maxx = d / q;
+        long long count = min(k - i, maxx - currentx + 1);
  
-        long long start_val = current_x;
-        long long end_val = current_x + count - 1;
-        long long sum_range = (start_val + end_val) * count / 2;
+        long long startval = currentx;
+        long long endval = currentx + count - 1;
+        long long sumrange = (startval + endval) * count / 2;
  
-        total_sum += count * d - q * sum_range;
+        totalsum += count * d - q * sumrange;
         i += count;
     }
  
-    cout << total_sum << "
+    cout << totalsum << "
 ";
 }
  
